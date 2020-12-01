@@ -2,6 +2,9 @@
 # My Own Personal Setup
 Here is my personal setup along with everything I use.
 
+## Operating System
+ - Arch Linux https://www.archlinux.org/
+
 ## Programming Languages
 - Java OpenJDK http://openjdk.java.net/
 - Python https://www.python.org/
