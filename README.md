@@ -61,6 +61,7 @@ Here is my personal setup along with everything I use.
 ### Bash
 - Ubuntu Desktop https://ubuntu.com/download/desktop
 - Vim https://www.vim.org/
+- Starship https://starship.rs/
 
 ## Web Design
 - Figma https://www.figma.com
